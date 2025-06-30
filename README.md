@@ -2,7 +2,6 @@
 <h3 align="center">🚀 A passionate Computer Science Engineering student from Bihar, India</h3>
 
 - 🔭 I’m currently working on **React & Web Development Projects**
-- 🌱 I’m learning **MERN Stack Development**
 - 💻 My GitHub: [Ayushnarayan123](https://github.com/Ayushnarayan123)
 - 📫 Contact me at: **narayan.ayush0701@gmail.com**
 - 🎓 Education: Govt Polytechnic Vaishali, CSE (2024-2027)
