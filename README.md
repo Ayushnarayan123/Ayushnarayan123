@@ -21,10 +21,3 @@
 
 ---
 
-### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushnarayan123&theme=radical)
-
----
-
-### 📈 Contribution Graph:
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayushnarayan123&theme=react-dark)
